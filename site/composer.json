@@ -1,0 +1,22 @@
+{
+    "name": "enayusuf/niagahoster",
+    "description": "Website niagahoster.co.id",
+    "type": "project",
+    "require": {
+        "twig/twig": "^3.4"
+    },
+    "require-dev": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Enayusuf\\Niagahoster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maulana Yusuf",
+            "email": "maulanayusuf.ena@gmail.com"
+        }
+    ]
+}
